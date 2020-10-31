@@ -1,3 +1,3 @@
 # sshpass
 
-Run `brew install core-process/sshpass/sshpass` to install `sshpass`.
+Run `brew install coreprocess/sshpass/sshpass` to install `sshpass`.
